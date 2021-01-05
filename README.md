@@ -6,8 +6,8 @@
   <img src="imgForREADME/logo.png" alt="yogart">
 </p>
   <h2 align="center">YOGART</h2>
-  <h6 align="center">내 마음 속에 요가트 한 스푼</h6>
-  <a href="https://www.youtube.com/watch?v=A_bF59aZDQM" align="center">프로젝트 소개영상</a>
+  <h6 align="center">내 마음에 요가트 한 스푼</h6>
+  <h6 align="center"><a href="https://www.youtube.com/watch?v=A_bF59aZDQM">프로젝트 소개영상</a></h6>
 
 
   <p align="center">
